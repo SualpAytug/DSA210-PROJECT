@@ -1,2 +1,19 @@
-# DSA210-PROJECT deneme
-Ibrahim Sualp Aytug's DSA210 Individual Term Project
+# Procrastination and Caffeine
+Project Overview
+
+
+Motivation 
+
+Data Collection & Analysis
+
+
+Plan
+
+
+Hypothesis Testing
+Null Hypothesis (H₀): 
+Alternative Hypothesis (Hₐ):
+
+Tools
+
+
