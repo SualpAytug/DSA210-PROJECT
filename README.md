@@ -1,19 +1,19 @@
 # Procrastination and Caffeine
-Project Overview
+## Project Overview
 
 
-Motivation 
+## Motivation 
 
-Data Collection & Analysis
-
-
-Plan
+## Data Collection & Analysis
 
 
-Hypothesis Testing
+## Plan
+
+
+## Hypothesis Testing
 Null Hypothesis (H₀): 
 Alternative Hypothesis (Hₐ):
 
-Tools
+##Tools
 
 
