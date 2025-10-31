@@ -11,8 +11,8 @@
 
 
 ## Hypothesis Testing
-Null Hypothesis (**H₀**): There is a significant relationship between my daily caffeine consumption and tendency to procrastinate.          
-Alternative Hypothesis (**Hₐ**): There is no significant relationship between my daily caffeine consumption and tendency to procrastinate.
+Null Hypothesis (**H₀**): There is no significant relationship between my daily caffeine consumption and tendency to procrastinate.                 
+Alternative Hypothesis (**Hₐ**): There is a significant relationship between my daily caffeine consumption and tendency to procrastinate.
 
 ## Tools
 - **Python**
