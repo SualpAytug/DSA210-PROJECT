@@ -23,10 +23,12 @@ Alternative Hypothesis (**Hₐ**): There is a significant relationship between m
 
 
 ## Tools
-- **Python**
+- **Python** will be used for data preprocessing, organization, manipulation, visualization and correlational analysis.
   - Pandas
   - Matplotlib & Seaborn
-  - numpy
+  - Numpy
+- **Apple Watch Sleep app** will be used to record sleep pattern.
+- **Google Sheets** will be used to record and combine data.
 
 
 ## Limitations
