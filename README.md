@@ -1,4 +1,4 @@
-# Procrastination and Caffeine
+# Caffeine, Sleep and Productivity
 ## Project Overview
 In this project, I will analyze how my daily sleep patterns and caffeine consumption affect my productivity. Over the next few months, I plan to systematically track my daily sleep patterns (including duration and quality), caffeine intake, and productivity throughout the day. Productivity will be measured based on the amount of time I spend studying or completing various kinds of tasks and activities, as well as my motivation to carry them out. By collecting and analyzing these data, I hope to gain insights into how my productivity is affected by my sleep quality and caffeine consumption.
 
