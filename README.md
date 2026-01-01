@@ -22,6 +22,15 @@ The dataset of this project consists of several factors mentioned below.
 Null Hypothesis (**H₀**): There is no significant relationship between my productivity and my daily caffeine consumption or sleep pattern.              
 Alternative Hypothesis (**Hₐ**): There is a significant relationship between my productivity and my daily caffeine consumption or sleep pattern. 
 
+**Method:** Used the Pearson correlation coefficient to test the relationship between `productivity` and `caffeine consumption` and `sleep pattern/total sleep duration`.
+
+**Results:**
+- Pearson **r ≈ 0.830** for caffeine consumption, and **r ≈ 0.551** for total sleep duration.
+- p-value of Caffeine_mg ≈ 0.0000, p-value of TotalSleep_min ≈ 0.0043.
+- Thus, we rejected the null hypothesis at α = 0.05 significance level.
+- **Strong positive linear association between caffeine consumption and productivity**
+- **Moderate positive linear association between total sleep time and productivity**
+
 
 ## Tools
 - **Python** will be used for data preprocessing, organization, manipulation, visualization and correlational analysis.
