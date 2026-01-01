@@ -31,6 +31,10 @@ Alternative Hypothesis (**Hₐ**): There is a significant relationship between m
 - **Strong positive linear association between caffeine consumption and productivity**
 - **Moderate positive linear association between total sleep time and productivity**
 
+## **Machine Learning Models**
+
+- Linear Regression
+- Random Forest
 
 ## Tools
 - **Python** will be used for data preprocessing, organization, manipulation, visualization and correlational analysis.
@@ -45,5 +49,5 @@ Alternative Hypothesis (**Hₐ**): There is a significant relationship between m
 - The data that will be collected and used to test hypotheses will be my individual data. A person's productivity and the possible effects of caffeine consumption or sleep pattern may vary from person to person; therefore the findings of this project are not generalizable.
 - The dataset is limited to observations over a one month period. The long term effects of these factors on productivity may vary.
 
-## Limitations
+## Future Work
 - Enrich the datasheet by collecting more data continuously over a longer time period to better test hypothesis and train machine learning models to improve their prediction accuracy.
