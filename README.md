@@ -35,3 +35,6 @@ Alternative Hypothesis (**Hₐ**): There is a significant relationship between m
 ## Limitations
 - The data that will be collected and used to test hypotheses will be my individual data. A person's productivity and the possible effects of caffeine consumption or sleep pattern may vary from person to person; therefore the findings of this project are not generalizable.
 - The dataset is limited to observations over a one month period. The long term effects of these factors on productivity may vary.
+
+## Limitations
+- Enrich the datasheet by collecting more data continuously over a longer time period to better test hypothesis and train machine learning models to improve their prediction accuracy.
